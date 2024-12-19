@@ -1,23 +1,10 @@
 凛冽:
   name: 凛冽 Tay
   title: 电工电子实验室学生 
-  url: https://github.com/凛冽v
+  url: https://github.com/1932550
   image_url: https://c-ssl.duitang.com/uploads/blog/202208/19/20220819063205_7942d.jpeg
   page: true
   socials:
     x: 凛冽
     github: 凛冽
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com

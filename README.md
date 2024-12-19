@@ -1,7 +1,7 @@
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
+记得在文件里执行
 ### Installation
 
 ```
@@ -31,6 +31,7 @@ Using SSH:
 ```
 $ USE_SSH=true yarn deploy
 ```
+记得先敲出密匙哦。
 
 Not using SSH:
 
