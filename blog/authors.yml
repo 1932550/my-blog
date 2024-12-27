@@ -1,10 +1,14 @@
-凛冽:
+1932550:
   name: 凛冽—TNK
   title: 电工电子实验室学生 
   url: https://github.com/1932550
   image_url: https://c-ssl.duitang.com/uploads/blog/202208/19/20220819063205_7942d.jpeg
-  page: true
+  page: 
   socials:
+<<<<<<< HEAD
     
+=======
+    x: 1932550
+>>>>>>> c23fb5852ddec99c89c12e8d6892b38c8c6eff2c
     github: https://github.com/1932550
 
