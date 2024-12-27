@@ -88,7 +88,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/1932550/my-blog',
-            label: '作者GitHub',
+            label: '该页面GitHub仓库',
             position: 'right',
           },
         ],
